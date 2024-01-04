@@ -35,13 +35,21 @@ h3{
     border-radius: 50%;
 }
 .flagstick{
-    height: 300px;
-    width: 30px;
+    height: 700px;
+    width: 10px;
     background-color: rgb(40, 52, 61);
     position: relative;
-    top: 90%;
-    border-top-right-radius: 30px;
-    
+    top: -5%;
+}
+.flagtopcircle{
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    position: ;
+    top: 0%;
+    border-radius: 100%;
+    left:-50%;
+    transform: translate(-30%,-50%);
 }
 .flagfooter{
     height: 35px;
